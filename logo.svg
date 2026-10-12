@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 112" width="100" height="112" role="img" aria-label="MYS logo">
+  <defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a5e8b8"/><stop offset="1" stop-color="#1d7a38"/></linearGradient></defs>
+  <polygon points="50,2 98,29 98,83 50,110 2,83 2,29" fill="url(#lg)"/>
+  <g fill="none" stroke="#052612" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 72 V40 L28 54 L35 40 V72"/>
+    <path d="M43 40 L50 56 L57 40 M50 56 V72"/>
+    <path d="M79 44 C76 38.5 65 39 65 47 C65 55 79 54 79 62.5 C79 71 68 72 65 66.5"/>
+  </g>
+</svg>
